@@ -66,7 +66,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/maythushar-music/CaiLinXMusic && cd CaiLinXMusic
+   git clone https://github.com/anubis-music/CaiLinXMusic && cd CaiLinXMusic
    ```
 6. **Install Requirements**
    ```bash
